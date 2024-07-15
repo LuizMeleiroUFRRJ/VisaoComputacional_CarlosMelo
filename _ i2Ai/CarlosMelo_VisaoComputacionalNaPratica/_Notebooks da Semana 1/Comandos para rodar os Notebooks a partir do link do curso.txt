@@ -1,0 +1,1 @@
+botão direito -> Abrir com - > Google Colaboratory
