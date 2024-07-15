@@ -1,0 +1,3 @@
+botão direito -> Abrir com - > Google Colaboratory
+
+Para adaptar/modificar o JN, tem que salvar para o meu drive ou para o GitHub.
