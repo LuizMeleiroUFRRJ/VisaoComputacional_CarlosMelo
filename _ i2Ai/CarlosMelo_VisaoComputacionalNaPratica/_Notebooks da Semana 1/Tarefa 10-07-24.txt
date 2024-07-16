@@ -1,0 +1,5 @@
+TAREFA: 
+Estudar (rodar e entender) JN 008
+Ler e implementar:
+	Redes Neurais Convolucionais com Python
+	Treine sua primeira rede neural: classificação básica https://www.tensorflow.org/tutorials/keras/classification?hl=pt-br
